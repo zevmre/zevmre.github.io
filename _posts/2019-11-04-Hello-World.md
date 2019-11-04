@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "Welcome to Jekyll!"
+categories: mix
 ---
 
 # Welcome
