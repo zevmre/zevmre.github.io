@@ -24,7 +24,7 @@ en: &DEFAULT_EN
   categories_label           : "Categories:"
   date_label                 : "Updated:"
   comments_label             : "Leave a comment"
-  comments_title             : "Comments"
+  comments_title             : "Comments(Powered by Disqus)"
   more_label                 : "Learn more"
   related_label              : "You may also enjoy"
   follow_label               : "Follow:"
