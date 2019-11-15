@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 100
 comments:
-  provider               : "custom"
+  provider               : "disqus"
   disqus:
     shortname            : "zevmre-github-io"
   discourse:
