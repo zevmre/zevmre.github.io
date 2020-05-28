@@ -8,9 +8,9 @@ title: Sufficiency_of_Statistic
 
 首先先要理清楚统计的逻辑链，因为这里边的distribution实在是多
 
-$\theta\rightarrow pdf(\theta)\rightarrow x\rightarrow X(\theta)\begin{cases}\rightarrow pdf(X(\theta))\\\rightarrow T(X(\theta))\rightarrow pdf(T)\end{cases}$
+$\theta\rightarrow pdf(\theta)\rightarrow x\rightarrow X(\theta)\begin{cases}\rightarrow pdf(X(\theta))\\\\ \rightarrow T(X(\theta))\rightarrow pdf(T)\end{cases}$
 
-![](./assets/imgages/SoS_1.png)
+![SoS_1](./assets/images/SoS_1.png)
 
-![](./assets/imgages/SoS_2.png)
+![SoS_2](./assets/images/SoS_2.png)
 
