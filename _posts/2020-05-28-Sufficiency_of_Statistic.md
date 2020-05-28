@@ -1,6 +1,6 @@
 ---
-tags: math
-categories: summary
+tags: summary
+categories: math
 title: Sufficiency_of_Statistic
 ---
 
