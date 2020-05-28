@@ -10,7 +10,7 @@ title: Sufficiency_of_Statistic
 
 $\theta\rightarrow pdf(\theta)\rightarrow x\rightarrow X(\theta)\begin{cases}\rightarrow pdf(X(\theta))\\\\ \rightarrow T(X(\theta))\rightarrow pdf(T)\end{cases}$
 
-![SoS_1](./assets/images/SoS_1.png)
+![SoS_1](/assets/images/SoS_1.png)
 
-![SoS_2](./assets/images/SoS_2.png)
+![SoS_2](/assets/images/SoS_2.png)
 
