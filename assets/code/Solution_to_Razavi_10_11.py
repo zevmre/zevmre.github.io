@@ -48,7 +48,7 @@ class MOS:
         LSD=1.5e-6
         self.CDB=(CJ*self.W*1e-6*LSD)/(1+VRD/PB)**MJ+(CJSW*(2*self.W+2*LSD)*1e-6)/(1+VRD/PB)**MJSW
         self.CSB=(CJ*self.W*1e-6*LSD)/(1+VRS/PB)**MJ+(CJSW*(2*self.W+2*LSD)*1e-6)/(1+VRS/PB)**MJSW
-    
+
 class NMOS(MOS):
     def __init__(self,W,L,I=0,VGS=0,VDS=0,VSB=0,gamma=0.45,lam=0.1,LD=0.08):
         MOS.__init__(self,W,L-2*LD,350e-4,0.7,gamma,0.9,lam,I,VGS,VDS,VSB)
@@ -113,4 +113,3 @@ Rz=1/M5.gm+1/(omega_p2_after*CC)
 
 SR=Iin/CC
 print("%g"%(SR))
-
